@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning whatever I can
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jayman425@gmail.com
+- 📫 How to reach me: jadenleake333@gmail.com
 
 <!---
 JadenLeake333/JadenLeake333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
